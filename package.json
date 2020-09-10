@@ -2,7 +2,7 @@
 	"author": "Jane Doe",
 	"description": "A project that does something awesome",
 	"name": "fcc-learn-npm-package-json",
-	"keywords": [ "descriptive", "related", "words" ],
+	"keywords": [ "freecodecamp", "related", "words" ],
 	"dependencies": {
 		"express": "^4.17.1"
 	},
