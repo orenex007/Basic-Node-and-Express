@@ -6,8 +6,8 @@
 	"license": "MIT",
 	"version": "1.2.0",
 	"dependencies": {
-		"package-name": "moment",
-		"express": "^2.14.0"
+		"moment": "2.14.0",
+		"express": "^4.17.1"
 	},
 	"main": "server.js",
 	"scripts": {
